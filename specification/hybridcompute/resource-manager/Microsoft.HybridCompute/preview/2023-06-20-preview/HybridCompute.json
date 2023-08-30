@@ -3025,7 +3025,7 @@
       },
       "allOf": [
         {
-          "$ref": "#/deginitions/LicenseProfileStorageModelEsuProperties"
+          "$ref": "#/definitions/LicenseProfileStorageModelEsuProperties"
         }
       ],
       "description": "Describes the properties of a License Profile ARM model."
