@@ -101,7 +101,7 @@
         },
         "x-ms-long-running-operation": true,
         "x-ms-examples": {
-          "Create or Update a License": {
+          "Validate a License": {
             "$ref": "./examples/license/License_ValidateLicense.json"
           }
         }
@@ -419,7 +419,7 @@
           "nextLinkName": "nextLink"
         },
         "x-ms-examples": {
-          "GET all Machine Extensions": {
+          "List Licenses by Subscription": {
             "$ref": "./examples/license/License_ListBySubscription.json"
           }
         }
@@ -948,7 +948,7 @@
           "nextLinkName": "nextLink"
         },
         "x-ms-examples": {
-          "GET all Machine Extensions": {
+          "List all License Profiles": {
             "$ref": "./examples/licenseProfile/LicenseProfile_List.json"
           }
         }

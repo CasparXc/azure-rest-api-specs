@@ -12,8 +12,7 @@
           "target": "Windows Server 2012",
           "edition": "Datacenter",
           "type": "pCore",
-          "processors": 6,
-          "additionalVirtualMachines": 0
+          "processors": 6
         }
       }
     }
