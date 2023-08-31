@@ -2868,7 +2868,7 @@
           "properties": {
             "esuProfile": {
               "x-ms-client-flatten": true,
-              "$ref": "#/definitions/LicenseProfileMachineInstanceView",
+              "$ref": "#/definitions/LicenseProfileArmEsuProperties",
               "description": "Hybrid Compute ESU Profile properties"
             },
             "provisioningState": {
@@ -3041,7 +3041,6 @@
       "description": "Describes the Update properties of a License Profile."
     },
     "LicenseProfileMachineInstanceView": {
-      "readOnly": true,
       "type": "object",
       "properties": {
         "assignedLicense": {

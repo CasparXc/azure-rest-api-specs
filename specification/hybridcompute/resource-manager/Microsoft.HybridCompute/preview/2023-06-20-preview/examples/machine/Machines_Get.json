@@ -49,7 +49,7 @@
               }
             }
           },
-          "esuProperties": {
+          "licenseProfile": {
             "assignedLicense": "<Guid id of License>",
             "esuKeys": [
               {

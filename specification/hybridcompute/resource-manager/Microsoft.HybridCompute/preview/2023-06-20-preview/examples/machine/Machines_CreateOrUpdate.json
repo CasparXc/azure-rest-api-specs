@@ -64,7 +64,7 @@
               }
             }
           },
-          "esuProperties": {
+          "licenseProfile": {
             "assignedLicense": "<guid>",
             "esuKeys": [
               {
